@@ -30,7 +30,7 @@ This is very simple to use.Follow the instructions below.
 # Installation 
 In your machine make sure that you have installed git 
 ```
-git clone https://github.com/THAVASHANKARRAJA/file_permission
+git clone https://github.com/valan27/Filepermission.git
 g++ -o myprogram file.cpp
 ./myprogram
 
@@ -39,7 +39,7 @@ g++ -o myprogram file.cpp
 # credits 
 Developed by our team Y-society
 <br>
-Valan Antony
+Thavashankar raja
 <br>
 Yamini
 <br>
