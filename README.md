@@ -31,7 +31,7 @@ This is very simple to use.Follow the instructions below.
 In your machine make sure that you have installed git 
 ```
 git clone https://github.com/THAVASHANKARRAJA/file_permission
-g++ -o <name-you-want-to-give> source.cpp
+g++ -o myprogram file.cpp
 ./myprogram
 
 ```
